@@ -1,2 +1,2 @@
 # afDNN
-unctional Imaging data Classification with Crowdsourced Noisy Annotations
+Functional Imaging data Classification with Crowdsourced Noisy Annotations
